@@ -14,7 +14,7 @@ export default class newTek {
       })
       .then((data) => {
         console.log(data)
-      });
+      })
 
   }
   triggerMacro (macroName) {
